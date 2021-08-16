@@ -13,7 +13,7 @@ I'm In is a game that was made with Unity using C#. You play as a hacker trying 
   
   - Each level provide you with a clue which is the scrambled words that you have to unscramble
   - Everytime you guess wrong, the clue will rescramble to help you with figuring out the word
-  - You will have 3 options: good, evil, and neutral at the end of each facility
+  - You will have 3 choices at the end of each facility: good, evil, and self
   
  <img src="./git-imgs/demo.gif" />
  
